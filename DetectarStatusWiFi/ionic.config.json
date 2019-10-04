@@ -1,0 +1,7 @@
+{
+  "name": "DetectarStatusWiFi",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
